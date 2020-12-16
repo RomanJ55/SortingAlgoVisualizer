@@ -1,7 +1,11 @@
 # SortingAlgoVisualizer
 Sorting Algorithm Visualizer created in python
 
-
+Supports:
+- Merge Sort
+- Quick Sort
+- Bubble Sort
+- Heap Sort
 
 
 
