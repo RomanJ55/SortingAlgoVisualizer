@@ -1,5 +1,8 @@
 # SortingAlgoVisualizer
 Sorting Algorithm Visualizer created in python
+https://romanj55.github.io/SortingAlgoVisualizer/
+
+
 
 Watch the algorithms work on each indivudual item in real-time 
 
